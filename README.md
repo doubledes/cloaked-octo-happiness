@@ -1,2 +1,2 @@
-# cloacked-octo-happiness
+# cloaked-octo-happiness
 Test repo
